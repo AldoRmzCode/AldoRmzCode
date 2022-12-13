@@ -3,7 +3,7 @@
 - Amo html5
 - -tengo un juego: www.wargardenz.com
 - Estoy trabajando en una plataforma para impulsar proyectos web para desarrolladores Junior.
-
+--------------------------------------------------------------------------------
 - Good at graphic design and illustrations.
 - I love html5
 - I have a game: www.wargardenz.com
