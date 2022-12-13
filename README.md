@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AldoRmzCode. (Aldo Ramírez García)
+- 👋 Hi, I’m @AldoRmzCode. (Aldo Ramírez García) - 19 años/19 years old
 - Bueno en diseño grafico e ilustraciones.
 - Amo html5
 - -tengo un juego: www.wargardenz.com
