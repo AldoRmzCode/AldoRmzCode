@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AldoRmzCode. - 21 años/21 years old
+- 👋 Hi, I’m @AldoRmzCode.
 -------------------------------------------------------------------------------
 - Bueno en diseño grafico e ilustraciones.
 - Haciendo mas juegos pero en html5
